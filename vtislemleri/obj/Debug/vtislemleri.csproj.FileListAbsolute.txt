@@ -1,0 +1,7 @@
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\obj\Debug\vtislemleri.csproj.AssemblyReference.cache
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\obj\Debug\vtislemleri.csproj.CoreCompileInputs.cache
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\bin\Debug\vtislemleri.exe.config
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\bin\Debug\vtislemleri.exe
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\bin\Debug\vtislemleri.pdb
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\obj\Debug\vtislemleri.exe
+C:\Users\osman_tfapt\source\repos\vtislemleri\vtislemleri\obj\Debug\vtislemleri.pdb
